@@ -2,11 +2,11 @@
   text-align: center;
 }
 
-.style{
-  padding-left: .70%;
+.styles{
+    padding-left: .70%; 
+    justify-content: left;
+  };
   
-}
-
 
 .App-logo {
   height: 40vmin;
